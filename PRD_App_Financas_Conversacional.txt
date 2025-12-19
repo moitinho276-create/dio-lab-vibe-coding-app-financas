@@ -1,0 +1,56 @@
+
+📄 PRD Revisado – Aplicativo de Finanças Pessoais Conversacional
+
+1. Contexto
+O aplicativo tem como objetivo ajudar pessoas a organizar suas finanças pessoais de forma simples e natural, por meio de conversas.
+A proposta é substituir formulários e planilhas complexas por uma experiência interativa e acessível, guiada por um “Agente Financeiro”.
+
+2. Problema
+- Apps atuais exigem muita entrada manual e pouca personalização.
+- Usuários iniciantes desistem rapidamente por acharem o processo burocrático ou difícil.
+- Necessidade identificada: uma solução prática, amigável e que incentive o hábito de registrar e acompanhar gastos.
+
+3. Público-Alvo
+- Pessoas que estão começando a organizar suas finanças.
+- Usuários que buscam praticidade e não querem lidar com planilhas ou sistemas complexos.
+- Faixa etária principal: jovens adultos e adultos que desejam melhorar sua relação com dinheiro.
+
+4. Funcionalidades-Chave
+1. Registro de gastos via chat em linguagem natural
+   - Ex.: “Gastei R$50 no mercado ontem”.
+   - O sistema interpreta valor, categoria e data automaticamente.
+
+2. Classificação automática de transações
+   - Categorias padrão (alimentação, transporte, lazer, etc.).
+   - Possibilidade de ajustes manuais pelo usuário.
+
+3. Definição e acompanhamento de metas financeiras
+   - Ex.: economizar R$200 no mês.
+   - Barra de progresso simples e notificações motivacionais.
+
+4. Dicas de economia do Agente Financeiro
+   - Recomendações curtas e práticas, adaptadas ao perfil de gastos.
+
+5. Relatórios simples e personalizados
+   - Gráficos básicos (pizza, barras).
+   - Insights automáticos (“Você gastou 30% em alimentação este mês”).
+
+5. Diferenciais
+- Experiência conversacional: elimina barreiras de entrada.
+- Personalização automática: o app aprende com os hábitos do usuário.
+- Tom educativo e motivacional: reforça conquistas e sugere melhorias sem julgamento.
+
+6. Entregáveis do MVP
+- Principais telas: Onboarding, Chat Financeiro, Metas, Relatórios, Dicas.
+- Recursos técnicos: NLP para interpretação de linguagem natural, motor de classificação, banco de dados simples, módulo de relatórios, sistema de recomendações.
+- Validação inicial: testes com 20–30 usuários, métricas de engajamento (número de transações registradas, metas definidas, feedback qualitativo).
+
+7. Métricas de Sucesso
+- ≥70% dos usuários conseguem registrar gastos sem ajuda.
+- ≥50% definem pelo menos uma meta no primeiro mês.
+- Feedback positivo sobre clareza das dicas e relatórios.
+
+8. Próximos Passos
+- Criar protótipo navegável (fluxo de telas).
+- Testar com grupo piloto.
+- Ajustar funcionalidades com base no feedback.
