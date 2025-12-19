@@ -70,8 +70,7 @@ A proposta é substituir formulários e planilhas complexas por uma experiência
 
 > Crie um App de Finanças Pessoais com base no seguinte PRD (Product Requirements Document): {PRD}
 
-> Tentei criar uma meta chamada Reserva de Emergencia, mas ela não apareceu no componente. A impressão que tive foi que apenas o Assistente Financeiro a reconheceu, poderia verificar? Além disso, onde vejo os gráficos e extrato?
-
+> Tive que dar esse comando, pois não estava sendo possivel editar as Mrtas. > gostaria que as metas financeiras fiquem editaveis
 > Sim (Quer que eu adicione uma tela de relatórios com gráficos e extrato detalhado das transações?)
 
 ---
