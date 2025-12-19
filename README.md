@@ -7,41 +7,61 @@ Este projeto foi desenvolvido como um Desafio de Projeto da DIO de Vibe Coding u
 ## 📝 PRD Refinado no Copilot Web
 
 ```markdown
-# PRD - App de Organização Financeira com Conversa Natural
 
-## Visão Geral
-Criar um aplicativo de organização de finanças pessoais que funcione por meio de conversas em linguagem natural.  
-O objetivo é tornar o controle financeiro mais intuitivo, acessível e livre de burocracias como planilhas ou formulários complexos.
+📄 PRD Revisado – Aplicativo de Finanças Pessoais Conversacional
+## Contexto
+O aplicativo tem como objetivo ajudar pessoas a organizar suas finanças pessoais de forma simples e natural, por meio de conversas.
+A proposta é substituir formulários e planilhas complexas por uma experiência interativa e acessível, guiada por um “Agente Financeiro”.
 
-## Problema a Resolver
-Muitas pessoas abandonam o controle financeiro por acharem os aplicativos atuais complicados, exigindo entradas manuais e oferecendo pouca personalização.  
-Queremos resolver isso com uma experiência conversacional fluida e recomendações automáticas que se adaptam ao perfil do usuário.
+## Problema
+- Apps atuais exigem muita entrada manual e pouca personalização.
+- Usuários iniciantes desistem rapidamente por acharem o processo burocrático ou difícil.
+- Necessidade identificada: uma solução prática, amigável e que incentive o hábito de registrar e acompanhar gastos.
 
 ## Público-Alvo
-Pessoas que desejam começar a organizar suas finanças de forma prática e sem complicações — especialmente iniciantes que não têm familiaridade com apps financeiros tradicionais.
+- Pessoas que estão começando a organizar suas finanças.
+- Usuários que buscam praticidade e não querem lidar com planilhas ou sistemas complexos.
+- Faixa etária principal: jovens adultos e adultos que desejam melhorar sua relação com dinheiro.
 
 ## Funcionalidades-Chave
-1. Registro de gastos via chat: O usuário descreve seus gastos em linguagem natural, como “gastei R$ 30 no mercado”.
-2. Classificação automática de transações: O app identifica e categoriza os gastos com base no texto.
-3. Definição e acompanhamento de metas financeiras: O usuário pode criar metas como “economizar R$ 500 até o fim do mês”.
-4. Dicas personalizadas do Agente Financeiro: Um assistente virtual que sugere formas de economizar com base nos hábitos do usuário.
-5. Relatórios simples e personalizados: Visualizações claras dos gastos, metas e progresso, adaptadas ao estilo do usuário.
+1. Registro de gastos via chat em linguagem natural
+   - Ex.: “Gastei R$50 no mercado ontem”.
+   - O sistema interpreta valor, categoria e data automaticamente.
 
-## Princípio de Design Universal
-A solução será construída com base em Design Universal, garantindo que o aplicativo ofereça uma experiência acessível, intuitiva e inclusiva para o maior número possível de pessoas — independentemente de idade, nível de alfabetização digital, limitações físicas ou cognitivas.  
-Isso inclui:
-- Interface clara e legível
-- Navegação simples e sem sobrecarga de informações
-- Compatibilidade com leitores de tela e comandos por voz
-- Feedbacks visuais e auditivos para facilitar o uso
+2. Classificação automática de transações
+   - Categorias padrão (alimentação, transporte, lazer, etc.).
+   - Possibilidade de ajustes manuais pelo usuário.
 
-## Entregável da IA
-Gerar um plano de MVP contendo:
-- As principais telas (chat, metas, relatórios)
-- Recursos técnicos necessários (NLP, categorização automática, motor de recomendações)
-- Estratégia de validação inicial com usuários reais
-- Linguagem acessível e tom educativo, em português
-- Aplicação dos princípios de Design Universal desde o protótipo
+3. Definição e acompanhamento de metas financeiras
+   - Ex.: economizar R$200 no mês.
+   - Barra de progresso simples e notificações motivacionais.
+
+4. Dicas de economia do Agente Financeiro
+   - Recomendações curtas e práticas, adaptadas ao perfil de gastos.
+
+5. Relatórios simples e personalizados
+   - Gráficos básicos (pizza, barras).
+   - Insights automáticos (“Você gastou 30% em alimentação este mês”).
+
+## Diferenciais
+- Experiência conversacional: elimina barreiras de entrada.
+- Personalização automática: o app aprende com os hábitos do usuário.
+- Tom educativo e motivacional: reforça conquistas e sugere melhorias sem julgamento.
+
+## Entregáveis do MVP
+- Principais telas: Onboarding, Chat Financeiro, Metas, Relatórios, Dicas.
+- Recursos técnicos: NLP para interpretação de linguagem natural, motor de classificação, banco de dados simples, módulo de relatórios, sistema de recomendações.
+- Validação inicial: testes com 20–30 usuários, métricas de engajamento (número de transações registradas, metas definidas, feedback qualitativo).
+
+## Métricas de Sucesso
+- ≥70% dos usuários conseguem registrar gastos sem ajuda.
+- ≥50% definem pelo menos uma meta no primeiro mês.
+- Feedback positivo sobre clareza das dicas e relatórios.
+
+## Próximos Passos
+- Criar protótipo navegável (fluxo de telas).
+- Testar com grupo piloto.
+- Ajustar funcionalidades com base no feedback.
 ```
 
 ---
