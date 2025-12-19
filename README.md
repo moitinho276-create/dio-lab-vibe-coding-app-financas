@@ -4,7 +4,7 @@ Este projeto foi desenvolvido como um Desafio de Projeto da DIO de Vibe Coding u
 
 ---
 
-## 📝 PRD Refinado no Copilot Web
+## 📝 PRD Refinado no Copilot
 
 ```markdown
 
