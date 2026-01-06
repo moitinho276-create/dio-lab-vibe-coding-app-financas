@@ -78,7 +78,7 @@ A proposta é substituir formulários e planilhas complexas por uma experiência
 ## 🎯 Resultado Final
 
 Acesse o protótipo funcional no Lovable:  
-**[conversa-fin-amigo.lovable.app](https://talk-track-trade.lovable.app/)**
+**[conversa-fin-amigo.lovable.app](https://rmfinancas.lovable.app)**
 
 <img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/88ef611d-970e-4377-918a-918714311218" />
 
