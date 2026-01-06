@@ -123,9 +123,9 @@ Acesse o protótipo funcional no Lovable:
 ## 🧠 Reflexão
 
 ### O que funcionou bem?  
-Lovlable entregou basicamente o que eu tinha em mente
+Lovable entregou basicamente o que eu tinha em mente
 ### O que não funcionou como o esperado?  
-Algumas funcinalidades, como editar as metasnão estavam disponiveis
+Algumas funcinalidades, como editar as metas não estavam disponiveis
 
 ### O que aprendi sobre conversar com IAs?  
 Sempre tive em mente que estava conversando com algorimos, é preciso de comandos logicos para que ele faça o que quero
